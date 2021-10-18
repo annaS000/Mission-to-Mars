@@ -26,6 +26,6 @@
 ### **After Updates**
 
 ![](https://github.com/annaS000/Mission-to-Mars/blob/main/Mars_Scraping/screenshots/newpage.png?raw=true)
-> Disclaimer: The images of Mars are now scroll through themselves, which is hard to capture in a picture.
+> Disclaimer: The images of Mars now scroll through themselves in a carousel, which is hard to capture in a picture.
 
 
